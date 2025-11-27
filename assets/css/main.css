@@ -2816,6 +2816,7 @@
 		#header nav {
 			height: inherit;
 			line-height: inherit;
+			font-size: 0.95em;
 			position: absolute;
 			right: 1.25em;
 			top: 0;
@@ -2831,7 +2832,7 @@
 				#header nav ul li {
 					border-radius: 4px;
 					display: inline-block;
-					margin-left: 2.5em;
+					margin-left: 1em;
 					padding-left: 0;
 				}
 
